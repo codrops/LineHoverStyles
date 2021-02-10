@@ -2,7 +2,7 @@
 
 A couple of simple & subtle line hover animations for links using CSS only.
 
-![Image Title](link)
+![Image](https://tympanus.net/codrops/wp-content/uploads/2021/02/LineHover_featured.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=53312)
 
